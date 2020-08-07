@@ -2,7 +2,9 @@
     "cSpell.words": [
         "DEVTOOLS",
         "browserslist",
+        "crossorigin",
         "noopener",
-        "noreferrer"
+        "noreferrer",
+        "webfonts"
     ]
 }
