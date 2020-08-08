@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Homepage = () => {
   return (
-    <div className="home-hero">
+    <div className="protrude-home">
       <h1>What's Happening?</h1>
-      <h4>New to Warbler?</h4>
+      <h4>New to Protrude?</h4>
       <Link to="/signup" className="btn btn-primary">
         Sign up here
       </Link>
