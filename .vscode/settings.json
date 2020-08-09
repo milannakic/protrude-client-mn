@@ -5,6 +5,7 @@
         "crossorigin",
         "noopener",
         "noreferrer",
+        "signup",
         "webfonts"
     ]
 }
