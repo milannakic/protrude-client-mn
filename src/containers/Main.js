@@ -28,6 +28,7 @@ const Main = (props) => {
           render={(props) => {
             return (
               <AuthForm
+                signUp
                 buttonText="Sign me up!"
                 heading="Join Protrude"
                 {...props}
