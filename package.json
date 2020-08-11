@@ -18,6 +18,8 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
+  "license": "MIT",
+  "author": "Milan Nakic",
   "proxy": "http://localhost:8080",
   "scripts": {
     "start": "react-scripts start",
