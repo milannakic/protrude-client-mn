@@ -1,12 +1,15 @@
 {
-    "cSpell.words": [
-        "DEVTOOLS",
-        "Nakic",
-        "browserslist",
-        "crossorigin",
-        "noopener",
-        "noreferrer",
-        "signup",
-        "webfonts"
-    ]
+  "cSpell.words": [
+    "DEVTOOLS",
+    "Nakic",
+    "browserslist",
+    "crossorigin",
+    "noopener",
+    "noreferrer",
+    "signup",
+    "webfonts"
+  ],
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
 }
