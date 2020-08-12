@@ -16,7 +16,7 @@ const MessageItem = ({
       <img
         src={profileImageUrl || DefaultProfileImg}
         alt={username}
-        height="100"
+        height="75"
         width="100"
         className="timeline-image"
       />
