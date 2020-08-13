@@ -1,5 +1,5 @@
 Client only for the Protrude (Twitter clone) app.
-Complete project will be given a separate repor.
+Complete project will be given a separate repo.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,3 +69,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+THE COMPLETE STATIC.JSON FILE SHOULD BE:
+
+{
+"root": "build/",
+"routes": {
+"/\*\*": "index.html"
+},
+"proxies": {
+"/api": {
+"origin": "https://protrude-server.cloudno.de/api"
+}
+}
+}
