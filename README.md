@@ -1,10 +1,9 @@
 Client only for the Protrude (Twitter clone) app.
-Complete project will be given a separate repo.
 
 NOTES:
 
-- Complete project will be given a separate repo.
-- New features will be only added to the complete project.
+- The complete project will be given a separate repo.
+- New features will be added soon.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
